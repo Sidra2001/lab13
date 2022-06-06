@@ -14,7 +14,6 @@ import java.io.FileNotFoundException;
 		
 	class Testthrows{
 	public static void main(String[] args) throws FileNotFoundException {
-		// TODO Auto-generated method stub
 		exception re=new exception();
 		re.readFile();
 	}
